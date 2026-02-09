@@ -43,3 +43,11 @@ The MATLAB script connects to the serial port to receive the data stream (`ECG,B
 | **GND** | **GND** |
 | **LO+** | **(Not Used)** |
 | **LO-** | **(Not Used)** |
+
+## 📊 Screenshots
+
+**ECG Signal and Heart Rate (BPM) Plot:**
+![ECG Plot](ECG1.png)
+
+**MATLAB Interface and Data Logging:**
+![MATLAB Interface](ECG2.png)
